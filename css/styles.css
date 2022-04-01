@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    align-content: space-between;
+    padding: 3em;
+    height: max-content;
+    margin: 7em;
+ }
+ 
+ h1{
+    font-weight: bold;
+    color: crimson;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.main{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    margin: 35px;
+    align-content: center;
+    justify-content: center;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+#button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50vh;
+}
